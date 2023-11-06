@@ -1,2 +1,2 @@
-## coding-projects
-#A number of my vast python and other projects for later use (not archived)
+## Coding-projects
+# These are all of my _python_ files; I do not currently use any other languages. 
