@@ -42,12 +42,12 @@ read from a file (part of a file)
 """
 
 # Writing to a file
-with open("/home/joshuaehindero0/CODING./CLASSWORK FOLDER/Files & Exceptions/text_files/text", "w") as file_object:
+with open("/home/joshuaehindero0/CODING./CLASSWORK FOLDER/Files & Exceptions/name_output.txt", "w") as file_object:
     file_object.write("I love python because it is so cool")
 
-with open("/home/joshuaehindero0/CODING./CLASSWORK FOLDER/Files & Exceptions/text_files/text", "a") as file_object:
+with open("/home/joshuaehindero0/CODING./CLASSWORK FOLDER/Files & Exceptions/name_output.txt", "a") as file_object:
     file_object.write("I also love python because it's super cool.")
 
-with open("/home/joshuaehindero0/CODING./CLASSWORK FOLDER/Files & Exceptions/text_files/text", "w") as file_object:
+with open("/home/joshuaehindero0/CODING./CLASSWORK FOLDER/Files & Exceptions/name_output.txt", "w") as file_object:
     file_object.write("I love being a programmer\n")
     file_object.write("I want everyone to have this feeling too\n")
