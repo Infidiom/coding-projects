@@ -1,2 +1,2 @@
 ## Coding-projects
- These are all of my _python_ files; I do not currently use any other languages. 
+ These are all of my web (HTML & CSS) files that may be used for later.
